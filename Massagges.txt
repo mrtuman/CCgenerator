@@ -1,0 +1,15 @@
+Tools Ini Untuk Carding Atau lainya.
+Tools Codee By Mr.Tuman/SBI_12
+Cara Menjalankan Too
+$apt update && apt upgrade
+$apt install php
+$apt install gi
+$pkg install ruby
+$apt install lolcat
+$apt install termcolor
+$git clone https://github.com/mrtuman/CCgenerator.git
+$cd CCgenerator
+$php Crack.php
+Count=Jumlah Yg Anda Mau
+Delay=Waktu Jeda
+Oke Terima Kasih 
